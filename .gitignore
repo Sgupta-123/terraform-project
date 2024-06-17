@@ -1,0 +1,25 @@
+# Ignore Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore Terraform lock file
+.terraform.lock.hcl
+
+# Ignore hidden Terraform directory
+.terraform/
+
+# Ignore private key files
+private.key
+
+# Ignore certificate files
+certificate.crt
+
+# Ignore IDEA project files
+.idea/
+
+
+
+
+
+
+
